@@ -1,0 +1,6 @@
+.hidden-meaning {
+    visibility: hidden;
+}
+tr:hover .hidden-meaning {
+    visibility: visible;
+}
